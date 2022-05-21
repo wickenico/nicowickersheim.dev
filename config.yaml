@@ -3,6 +3,7 @@ languageCode: en-us
 title: Nico Wickersheim
 theme: "toha"
 
+
 # Manage languages
 # For any more details, you can check the official documentation: https://gohugo.io/content-management/multilingual/
 languages:
@@ -22,6 +23,9 @@ enableEmoji: true
 
 # Site parameters
 params:
+
+  background: "images/site/default-background.jpg"
+
   # GitHub repo URL of your site
   gitRepo: https://github.com/wickenico/nicowickersheim.dev
 
