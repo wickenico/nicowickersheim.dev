@@ -24,7 +24,7 @@ enableEmoji: true
 # Site parameters
 params:
 
-  background: "images/site/default-background.jpg"
+  background: "images/site/background-code.jpg"
 
   # GitHub repo URL of your site
   gitRepo: https://github.com/wickenico/nicowickersheim.dev
@@ -38,4 +38,4 @@ params:
   # Provide newsletter configuration. This feature hasn't been implemented yet.
   # Currently, you can just hide it from the footer.
   newsletter:
-    enable: true
+    enable: false
